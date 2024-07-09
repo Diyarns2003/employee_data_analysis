@@ -41,3 +41,7 @@ The following machine learning models were used to predict employee attrition:
 3. K-Nearest Neighbors (KNN)
 4. Decision Tree
 5. K-Means Clustering
+
+## References
+![](https://github.com/Diyarns2003/employee_data_analysis/blob/main/img1.png)
+![](https://github.com/Diyarns2003/employee_data_analysis/blob/main/img2.png)
